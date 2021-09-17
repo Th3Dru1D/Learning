@@ -1,0 +1,5 @@
+C:\Users\yurip\git\App simples de cadastro de séries em .NET\FLIX\obj\Debug\net5.0\FLIX.csproj.AssemblyReference.cache
+C:\Users\yurip\git\App simples de cadastro de séries em .NET\FLIX\obj\Debug\net5.0\FLIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurip\git\App simples de cadastro de séries em .NET\FLIX\obj\Debug\net5.0\FLIX.AssemblyInfoInputs.cache
+C:\Users\yurip\git\App simples de cadastro de séries em .NET\FLIX\obj\Debug\net5.0\FLIX.AssemblyInfo.cs
+C:\Users\yurip\git\App simples de cadastro de séries em .NET\FLIX\obj\Debug\net5.0\FLIX.csproj.CoreCompileInputs.cache
